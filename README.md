@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Web3**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-rose-one-14.vercel.app/](https://portfolio-rose-one-14.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://dancing-cobbler-a13f9c.netlify.app/]
 
 - 📫 How to reach me **pawarpratik7349@gmail.com**
 
