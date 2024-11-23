@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **pawarpratik7349@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1o060nMGezAlg1WwO9OjolgPTJvqx8rSR/view](https://drive.google.com/file/d/1o060nMGezAlg1WwO9OjolgPTJvqx8rSR/view)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1-IVxT7PZu97VTmRY7ClX6ip13Xkh3IEu/view]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
