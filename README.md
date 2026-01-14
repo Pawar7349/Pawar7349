@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, My name is Pratik Pawar</h1>
-<h3 align="center">A passionate fullstack developer & web3 developer</h3>
+<h3 align="center">Smart Contract Developer</h3>
 
-- 🔭 I’m currently working on **Web3**
+- 🔭 I’m currently working on **Layer 2**
 
-- 🌱 I’m currently learning **Web3**
+- 🌱 I’m currently learning **Layer 2**
 
-- 👨‍💻 All of my projects are available at [https://dancing-cobbler-a13f9c.netlify.app/]
+- 👨‍💻 All of my projects are available at [pratik-myportfolio.netlify.app]
 
 - 📫 How to reach me **pawarpratik7349@gmail.com**
 
