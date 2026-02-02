@@ -1,21 +1,31 @@
-<h1 align="center">Hi 👋, My name is Pratik Pawar</h1>
-<h3 align="center">Smart Contract Developer</h3>
+## Pratik Pawar
 
-- 🔭 I’m currently working on **Layer 2**
+Smart contract developer building DeFi protocols
 
-- 🌱 I’m currently learning **Layer 2**
+### Projects
 
-- 👨‍💻 All of my projects are available at [pratik-myportfolio.netlify.app]
+**LiquidVault** — ERC4626 yield aggregator with Aave integration  
+→ [Code](https://github.com/Pawar7349/LiquidVault) • 20/20 tests passing
 
-- 📫 How to reach me **pawarpratik7349@gmail.com**
+**StreamSalary** — Real-time salary streaming protocol  
+→ [Code](https://github.com/Pawar7349/StreamSalary) • Linear vesting, instant withdrawals
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1-IVxT7PZu97VTmRY7ClX6ip13Xkh3IEu/view]
+**TokenGuard** — Decentralized token recovery system  
+→ [Code](https://github.com/Pawar7349/TokenGuard) • 26/26 tests passing
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/pratik-pawar-600731237/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pratik-pawar-600731237/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/pawarprapz51/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/pawarprapz51/" height="30" width="40" /></a>
-</p>
+### Stack
+
+Solidity • Hardhat • Foundry • OpenZeppelin • Web3.js • Ethers.js • React
+
+### Open Source
+
+Contributing to [NEAR Discovery](https://github.com/near/near-discovery/pull/1349)
+
+### Currently
+
+Deploying to mainnet • Learning DeFi security • Open to remote roles
+
+[Portfolio](https://pratik-portfilioo.netlify.app) • [Twitter](https://x.com/PratikP43786754) • pawarpratik7349@gmail.com
 
 
 
