@@ -1,39 +1,30 @@
-# 👋 Pratik Pawar
+# Pratik Pawar
 
-**Smart Contract Developer** building DeFi protocols and Web3 applications
+Smart contract developer building DeFi protocols on Ethereum.
 
-## 🔨 What I Build
+## Projects
 
-**DeFi Protocols**
-- [TokenGuard](https://github.com/Pawar7349/TokenGuard) - Token recovery with automated rewards • 26/26 tests ✅
-- [StreamSalary](https://github.com/Pawar7349/StreamSalary) - Real-time salary streaming • OpenZeppelin secured
-- [LiquidVault](https://github.com/Pawar7349/LiquidVault) - ERC4626 yield aggregator • Aave integration
+**[LiquidVault](https://github.com/Pawar7349/LiquidVault)** — ERC4626 yield aggregator with Aave integration • 20/20 tests passing
 
-**NFT & Gaming**
-- [Galactic Guardians](https://github.com/Pawar7349/Galactic_Guardians) - Full marketplace with staking
-- [HealthLedger](https://github.com/Pawar7349/HealthLedger) - Patient-controlled medical records
+**[StreamSalary](https://github.com/Pawar7349/StreamSalary)** — Real-time salary streaming protocol • Linear vesting, instant withdrawals
 
-**Tools**
-- [BlockExplorer](https://github.com/Pawar7349/BlockExplorer) - Ethereum data visualization
+**[TokenGuard](https://github.com/Pawar7349/TokenGuard)** — Decentralized token recovery system • 26/26 tests passing
 
-## 💻 Tech Stack
+## Open Source
 
-**Blockchain:** Solidity • Hardhat • Foundry • OpenZeppelin • ERC-20/721/4626  
-**Frontend:** React • TypeScript • Ethers.js • Web3.js  
-**Testing:** Hardhat/Chai • 100% test coverage focus  
-**Tools:** IPFS • Alchemy • MetaMask • Git
+Contributing to [Hardhat #7977](https://github.com/NomicFoundation/hardhat/issues/7977) — fork gas price simulation feature
 
-## 🌱 Currently
+Contributing to [NEAR Discovery](https://github.com/near/near-discovery/pull/1349)
 
-- 🚀 Contributing to [Hardhat](https://github.com/NomicFoundation/hardhat)
-- 📚 Learning DeFi security & gas optimization
-- 💼 Open to blockchain developer roles
+## Stack
 
-## 📫 Connect
+Solidity • Foundry • Hardhat • OpenZeppelin • Ethers.js • React
 
-[Portfolio](https://pratik-portfilioo.netlify.app) • [LinkedIn](https://www.linkedin.com/in/pratik-pawar-600731237/) • [Twitter](https://x.com/PratikP43786754)
+## Currently
 
-📧 pawarpratik7349@gmail.com
+Building on mainnet • Studying DeFi security • Open to remote roles
+
+[Portfolio](https://pratik-portfilioo.netlify.app) • [LinkedIn](https://www.linkedin.com/in/pratik-pawar-600731237/) • [Twitter](https://x.com/PratikP43786754) • pawarpratik7349@gmail.com
 
 
 
