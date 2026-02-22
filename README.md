@@ -1,31 +1,40 @@
-## Pratik Pawar
+# 👋 Pratik Pawar
 
-Smart contract developer building DeFi protocols
+**Smart Contract Developer** building DeFi protocols and Web3 applications
 
-### Projects
+## 🔨 What I Build
 
-**LiquidVault** — ERC4626 yield aggregator with Aave integration  
-→ [Code](https://github.com/Pawar7349/LiquidVault) • 20/20 tests passing
+**DeFi Protocols**
+- [TokenGuard](https://github.com/Pawar7349/TokenGuard) - Token recovery with automated rewards • 26/26 tests ✅
+- [StreamSalary](https://github.com/Pawar7349/StreamSalary) - Real-time salary streaming • OpenZeppelin secured
+- [LiquidVault](https://github.com/Pawar7349/LiquidVault) - ERC4626 yield aggregator • Aave integration
 
-**StreamSalary** — Real-time salary streaming protocol  
-→ [Code](https://github.com/Pawar7349/StreamSalary) • Linear vesting, instant withdrawals
+**NFT & Gaming**
+- [Galactic Guardians](https://github.com/Pawar7349/Galactic_Guardians) - Full marketplace with staking
+- [HealthLedger](https://github.com/Pawar7349/HealthLedger) - Patient-controlled medical records
 
-**TokenGuard** — Decentralized token recovery system  
-→ [Code](https://github.com/Pawar7349/TokenGuard) • 26/26 tests passing
+**Tools**
+- [BlockExplorer](https://github.com/Pawar7349/BlockExplorer) - Ethereum data visualization
 
-### Stack
+## 💻 Tech Stack
 
-Solidity • Hardhat • Foundry • OpenZeppelin • Web3.js • Ethers.js • React
+**Blockchain:** Solidity • Hardhat • Foundry • OpenZeppelin • ERC-20/721/4626  
+**Frontend:** React • TypeScript • Ethers.js • Web3.js  
+**Testing:** Hardhat/Chai • 100% test coverage focus  
+**Tools:** IPFS • Alchemy • MetaMask • Git
 
-### Open Source
+## 🌱 Currently
 
-Contributing to [NEAR Discovery](https://github.com/near/near-discovery/pull/1349)
+- 🚀 Contributing to [Hardhat](https://github.com/NomicFoundation/hardhat)
+- 📚 Learning DeFi security & gas optimization
+- 💼 Open to blockchain developer roles
 
-### Currently
+## 📫 Connect
 
-Deploying to mainnet • Learning DeFi security • Open to remote roles
+[Portfolio](https://pratik-portfilioo.netlify.app) • [LinkedIn](https://www.linkedin.com/in/pratik-pawar-600731237/) • [Twitter](https://x.com/PratikP43786754)
 
-[Portfolio](https://pratik-portfilioo.netlify.app) • [Twitter](https://x.com/PratikP43786754) • pawarpratik7349@gmail.com
+📧 pawarpratik7349@gmail.com
+
 
 
 
